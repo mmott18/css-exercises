@@ -1,0 +1,13 @@
+.first, .second {
+    font-size: 28px;
+    font-family: "Helvetica", "Gill Sans Extrabold", monospace;
+}
+
+.first {
+    background-color: black;
+    color: white;
+}
+
+.second {
+    background-color: yellow;
+}
